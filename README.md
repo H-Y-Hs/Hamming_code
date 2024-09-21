@@ -8,7 +8,7 @@ Project of course in master degree - Hamming code
 ![Block Diagram](https://github.com/H-Y-Hs/Hamming_code/blob/main/Sim.jpg?raw=true)
 
 ###Notes
-1.  Use the recursion
+1. Use the recursion
 
   $ul+6 = ul+1 ⊕ ul$, for $l ≥ 0$
 
